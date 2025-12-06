@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9fd6888-154e-48b2-9f61-0817375df32f" width="70%" />
+  <img src="https://github.com/user-attachments/assets/e9fd6888-154e-48b2-9f61-0817375df32f" width="60%" />
+  <img src="https://github.com/user-attachments/assets/95f75c8d-08ea-4d9c-a73a-dc3facbd9eae" width="25%" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/95f75c8d-08ea-4d9c-a73a-dc3facbd9eae" width="35%" />
-</p>
 
 
 Note: 
